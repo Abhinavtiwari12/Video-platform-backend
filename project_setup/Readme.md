@@ -1,5 +1,1 @@
-cloudinary 
-CLOUDINARY_CLOUD_NAME=dmscwtp8b
-CLOUDINARY_API_KEY=221226948953716
-CLOUDINARY_API_SECRET=Y7sF1SqQr2Ga8nUDZtZYSrSDf6w
-
+# This is a Backend API for a video-sharing platform with authentication, user channels, subscriptions, media uploads, and watch history.
